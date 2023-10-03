@@ -6,7 +6,7 @@
     "scripts": {
         "start": "node app.js",
         "test": "mocha test.js",
-        "lint": "eslint --ext .js backend"
+        "lint": "eslint --ext .js"
     },
     "dependencies": {
         "express": "^4.18.2"
